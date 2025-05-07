@@ -1,4 +1,4 @@
-# Task Management System 
+# TaskSphere: Optimizing Task Lifecycles via Relational Frameworks (Task Management System)
 
 ## Introduction
 
